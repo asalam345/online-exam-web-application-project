@@ -1,8 +1,5 @@
 ﻿using OnlineExam.DataAccess.Data;
 using OnlineExam.DataAccess.Repository.IRepository;
-using System;
-using System.Collections.Generic;
-using System.Text;
 
 namespace OnlineExam.DataAccess.Repository
 {

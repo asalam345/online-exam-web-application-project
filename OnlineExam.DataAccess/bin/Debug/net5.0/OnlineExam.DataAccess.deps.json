@@ -957,7 +957,10 @@
           "Microsoft.Extensions.Identity.Stores": "5.0.4"
         },
         "runtime": {
-          "OnlineExam.Models.dll": {}
+          "OnlineExam.Models.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       },
       "OnlineExam.Utilities/1.0.0": {
@@ -966,7 +969,10 @@
           "Newtonsoft.Json": "13.0.1"
         },
         "runtime": {
-          "OnlineExam.Utilities.dll": {}
+          "OnlineExam.Utilities.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       }
     }

@@ -10,3 +10,15 @@ C:\Users\Caner Demir\Caner\OnlineExam\OnlineExam.Utilities\obj\Debug\net5.0\Onli
 C:\Users\Caner Demir\Caner\OnlineExam\OnlineExam.Utilities\obj\Debug\net5.0\ref\OnlineExam.Utilities.dll
 C:\Users\Caner Demir\Caner\OnlineExam\OnlineExam.Utilities\obj\Debug\net5.0\OnlineExam.Utilities.pdb
 C:\Users\Caner Demir\Caner\OnlineExam\OnlineExam.Utilities\obj\Debug\net5.0\OnlineExam.Utilities.csproj.AssemblyReference.cache
+C:\Users\Qbits\Downloads\online-exam-web-application-project-master\online-exam-web-application-project-master\OnlineExam.Utilities\bin\Debug\net5.0\OnlineExam.Utilities.deps.json
+C:\Users\Qbits\Downloads\online-exam-web-application-project-master\online-exam-web-application-project-master\OnlineExam.Utilities\bin\Debug\net5.0\OnlineExam.Utilities.dll
+C:\Users\Qbits\Downloads\online-exam-web-application-project-master\online-exam-web-application-project-master\OnlineExam.Utilities\bin\Debug\net5.0\OnlineExam.Utilities.pdb
+C:\Users\Qbits\Downloads\online-exam-web-application-project-master\online-exam-web-application-project-master\OnlineExam.Utilities\obj\Debug\net5.0\OnlineExam.Utilities.csproj.AssemblyReference.cache
+C:\Users\Qbits\Downloads\online-exam-web-application-project-master\online-exam-web-application-project-master\OnlineExam.Utilities\obj\Debug\net5.0\OnlineExam.Utilities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Qbits\Downloads\online-exam-web-application-project-master\online-exam-web-application-project-master\OnlineExam.Utilities\obj\Debug\net5.0\OnlineExam.Utilities.AssemblyInfoInputs.cache
+C:\Users\Qbits\Downloads\online-exam-web-application-project-master\online-exam-web-application-project-master\OnlineExam.Utilities\obj\Debug\net5.0\OnlineExam.Utilities.AssemblyInfo.cs
+C:\Users\Qbits\Downloads\online-exam-web-application-project-master\online-exam-web-application-project-master\OnlineExam.Utilities\obj\Debug\net5.0\OnlineExam.Utilities.csproj.CoreCompileInputs.cache
+C:\Users\Qbits\Downloads\online-exam-web-application-project-master\online-exam-web-application-project-master\OnlineExam.Utilities\obj\Debug\net5.0\OnlineExam.Utilities.dll
+C:\Users\Qbits\Downloads\online-exam-web-application-project-master\online-exam-web-application-project-master\OnlineExam.Utilities\obj\Debug\net5.0\refint\OnlineExam.Utilities.dll
+C:\Users\Qbits\Downloads\online-exam-web-application-project-master\online-exam-web-application-project-master\OnlineExam.Utilities\obj\Debug\net5.0\OnlineExam.Utilities.pdb
+C:\Users\Qbits\Downloads\online-exam-web-application-project-master\online-exam-web-application-project-master\OnlineExam.Utilities\obj\Debug\net5.0\ref\OnlineExam.Utilities.dll

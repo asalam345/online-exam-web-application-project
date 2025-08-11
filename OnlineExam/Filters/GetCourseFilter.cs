@@ -4,10 +4,8 @@ using Newtonsoft.Json;
 using OnlineExam.DataAccess.Repository.IRepository;
 using OnlineExam.Utilities;
 using System;
-using System.Collections.Generic;
 using System.Linq;
 using System.Security.Claims;
-using System.Threading.Tasks;
 
 namespace OnlineExam.Filters
 {

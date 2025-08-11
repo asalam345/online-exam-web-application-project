@@ -7,3 +7,13 @@ C:\Users\Caner Demir\Caner\OnlineExam\OnlineExam.Models\obj\Debug\netcoreapp3.1\
 C:\Users\Caner Demir\Caner\OnlineExam\OnlineExam.Models\obj\Debug\netcoreapp3.1\OnlineExam.Models.dll
 C:\Users\Caner Demir\Caner\OnlineExam\OnlineExam.Models\obj\Debug\netcoreapp3.1\OnlineExam.Models.pdb
 C:\Users\Caner Demir\Caner\OnlineExam\OnlineExam.Models\obj\Debug\netcoreapp3.1\OnlineExam.Models.csproj.AssemblyReference.cache
+C:\Users\Qbits\Downloads\online-exam-web-application-project-master\online-exam-web-application-project-master\OnlineExam.Models\bin\Debug\netcoreapp3.1\OnlineExam.Models.deps.json
+C:\Users\Qbits\Downloads\online-exam-web-application-project-master\online-exam-web-application-project-master\OnlineExam.Models\bin\Debug\netcoreapp3.1\OnlineExam.Models.dll
+C:\Users\Qbits\Downloads\online-exam-web-application-project-master\online-exam-web-application-project-master\OnlineExam.Models\bin\Debug\netcoreapp3.1\OnlineExam.Models.pdb
+C:\Users\Qbits\Downloads\online-exam-web-application-project-master\online-exam-web-application-project-master\OnlineExam.Models\obj\Debug\netcoreapp3.1\OnlineExam.Models.csproj.AssemblyReference.cache
+C:\Users\Qbits\Downloads\online-exam-web-application-project-master\online-exam-web-application-project-master\OnlineExam.Models\obj\Debug\netcoreapp3.1\OnlineExam.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Qbits\Downloads\online-exam-web-application-project-master\online-exam-web-application-project-master\OnlineExam.Models\obj\Debug\netcoreapp3.1\OnlineExam.Models.AssemblyInfoInputs.cache
+C:\Users\Qbits\Downloads\online-exam-web-application-project-master\online-exam-web-application-project-master\OnlineExam.Models\obj\Debug\netcoreapp3.1\OnlineExam.Models.AssemblyInfo.cs
+C:\Users\Qbits\Downloads\online-exam-web-application-project-master\online-exam-web-application-project-master\OnlineExam.Models\obj\Debug\netcoreapp3.1\OnlineExam.Models.csproj.CoreCompileInputs.cache
+C:\Users\Qbits\Downloads\online-exam-web-application-project-master\online-exam-web-application-project-master\OnlineExam.Models\obj\Debug\netcoreapp3.1\OnlineExam.Models.dll
+C:\Users\Qbits\Downloads\online-exam-web-application-project-master\online-exam-web-application-project-master\OnlineExam.Models\obj\Debug\netcoreapp3.1\OnlineExam.Models.pdb

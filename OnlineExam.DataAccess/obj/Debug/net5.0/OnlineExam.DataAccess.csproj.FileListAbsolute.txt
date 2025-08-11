@@ -32,3 +32,20 @@ C:\Users\Caner Demir\Caner\OnlineExam\OnlineExam.DataAccess\obj\Debug\net5.0\Onl
 C:\Users\Caner Demir\Caner\OnlineExam\OnlineExam.DataAccess\obj\Debug\net5.0\ref\OnlineExam.DataAccess.dll
 C:\Users\Caner Demir\Caner\OnlineExam\OnlineExam.DataAccess\obj\Debug\net5.0\OnlineExam.DataAccess.pdb
 C:\Users\Caner Demir\Caner\OnlineExam\OnlineExam.DataAccess\obj\Debug\net5.0\OnlineExam.DataAccess.csproj.AssemblyReference.cache
+C:\Users\Qbits\Downloads\online-exam-web-application-project-master\online-exam-web-application-project-master\OnlineExam.DataAccess\bin\Debug\net5.0\OnlineExam.DataAccess.deps.json
+C:\Users\Qbits\Downloads\online-exam-web-application-project-master\online-exam-web-application-project-master\OnlineExam.DataAccess\bin\Debug\net5.0\OnlineExam.DataAccess.dll
+C:\Users\Qbits\Downloads\online-exam-web-application-project-master\online-exam-web-application-project-master\OnlineExam.DataAccess\bin\Debug\net5.0\OnlineExam.DataAccess.pdb
+C:\Users\Qbits\Downloads\online-exam-web-application-project-master\online-exam-web-application-project-master\OnlineExam.DataAccess\bin\Debug\net5.0\OnlineExam.Models.dll
+C:\Users\Qbits\Downloads\online-exam-web-application-project-master\online-exam-web-application-project-master\OnlineExam.DataAccess\bin\Debug\net5.0\OnlineExam.Utilities.dll
+C:\Users\Qbits\Downloads\online-exam-web-application-project-master\online-exam-web-application-project-master\OnlineExam.DataAccess\bin\Debug\net5.0\OnlineExam.Models.pdb
+C:\Users\Qbits\Downloads\online-exam-web-application-project-master\online-exam-web-application-project-master\OnlineExam.DataAccess\bin\Debug\net5.0\OnlineExam.Utilities.pdb
+C:\Users\Qbits\Downloads\online-exam-web-application-project-master\online-exam-web-application-project-master\OnlineExam.DataAccess\obj\Debug\net5.0\OnlineExam.DataAccess.csproj.AssemblyReference.cache
+C:\Users\Qbits\Downloads\online-exam-web-application-project-master\online-exam-web-application-project-master\OnlineExam.DataAccess\obj\Debug\net5.0\OnlineExam.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Qbits\Downloads\online-exam-web-application-project-master\online-exam-web-application-project-master\OnlineExam.DataAccess\obj\Debug\net5.0\OnlineExam.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Qbits\Downloads\online-exam-web-application-project-master\online-exam-web-application-project-master\OnlineExam.DataAccess\obj\Debug\net5.0\OnlineExam.DataAccess.AssemblyInfo.cs
+C:\Users\Qbits\Downloads\online-exam-web-application-project-master\online-exam-web-application-project-master\OnlineExam.DataAccess\obj\Debug\net5.0\OnlineExam.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Qbits\Downloads\online-exam-web-application-project-master\online-exam-web-application-project-master\OnlineExam.DataAccess\obj\Debug\net5.0\OnlineEx.693131F2.Up2Date
+C:\Users\Qbits\Downloads\online-exam-web-application-project-master\online-exam-web-application-project-master\OnlineExam.DataAccess\obj\Debug\net5.0\OnlineExam.DataAccess.dll
+C:\Users\Qbits\Downloads\online-exam-web-application-project-master\online-exam-web-application-project-master\OnlineExam.DataAccess\obj\Debug\net5.0\refint\OnlineExam.DataAccess.dll
+C:\Users\Qbits\Downloads\online-exam-web-application-project-master\online-exam-web-application-project-master\OnlineExam.DataAccess\obj\Debug\net5.0\OnlineExam.DataAccess.pdb
+C:\Users\Qbits\Downloads\online-exam-web-application-project-master\online-exam-web-application-project-master\OnlineExam.DataAccess\obj\Debug\net5.0\ref\OnlineExam.DataAccess.dll

@@ -1,0 +1,36 @@
+C:\Users\Qbits\Downloads\online-exam-web-application-project-master\online-exam-web-application-project-master\OnlineExam.Models\bin\Debug\net8.0\OnlineExam.Models.deps.json
+C:\Users\Qbits\Downloads\online-exam-web-application-project-master\online-exam-web-application-project-master\OnlineExam.Models\bin\Debug\net8.0\OnlineExam.Models.dll
+C:\Users\Qbits\Downloads\online-exam-web-application-project-master\online-exam-web-application-project-master\OnlineExam.Models\bin\Debug\net8.0\OnlineExam.Models.pdb
+C:\Users\Qbits\Downloads\online-exam-web-application-project-master\online-exam-web-application-project-master\OnlineExam.Models\obj\Debug\net8.0\OnlineExam.Models.csproj.AssemblyReference.cache
+C:\Users\Qbits\Downloads\online-exam-web-application-project-master\online-exam-web-application-project-master\OnlineExam.Models\obj\Debug\net8.0\OnlineExam.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Qbits\Downloads\online-exam-web-application-project-master\online-exam-web-application-project-master\OnlineExam.Models\obj\Debug\net8.0\OnlineExam.Models.AssemblyInfoInputs.cache
+C:\Users\Qbits\Downloads\online-exam-web-application-project-master\online-exam-web-application-project-master\OnlineExam.Models\obj\Debug\net8.0\OnlineExam.Models.AssemblyInfo.cs
+C:\Users\Qbits\Downloads\online-exam-web-application-project-master\online-exam-web-application-project-master\OnlineExam.Models\obj\Debug\net8.0\OnlineExam.Models.csproj.CoreCompileInputs.cache
+C:\Users\Qbits\Downloads\online-exam-web-application-project-master\online-exam-web-application-project-master\OnlineExam.Models\obj\Debug\net8.0\OnlineExam.Models.dll
+C:\Users\Qbits\Downloads\online-exam-web-application-project-master\online-exam-web-application-project-master\OnlineExam.Models\obj\Debug\net8.0\refint\OnlineExam.Models.dll
+C:\Users\Qbits\Downloads\online-exam-web-application-project-master\online-exam-web-application-project-master\OnlineExam.Models\obj\Debug\net8.0\OnlineExam.Models.pdb
+C:\Users\Qbits\Downloads\online-exam-web-application-project-master\online-exam-web-application-project-master\OnlineExam.Models\obj\Debug\net8.0\ref\OnlineExam.Models.dll
+C:\Users\Qbits\Downloads\online-exam-web-application-project\OnlineExam.Models\bin\Debug\net8.0\OnlineExam.Models.deps.json
+C:\Users\Qbits\Downloads\online-exam-web-application-project\OnlineExam.Models\bin\Debug\net8.0\OnlineExam.Models.dll
+C:\Users\Qbits\Downloads\online-exam-web-application-project\OnlineExam.Models\bin\Debug\net8.0\OnlineExam.Models.pdb
+C:\Users\Qbits\Downloads\online-exam-web-application-project\OnlineExam.Models\obj\Debug\net8.0\OnlineExam.Models.csproj.AssemblyReference.cache
+C:\Users\Qbits\Downloads\online-exam-web-application-project\OnlineExam.Models\obj\Debug\net8.0\OnlineExam.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Qbits\Downloads\online-exam-web-application-project\OnlineExam.Models\obj\Debug\net8.0\OnlineExam.Models.AssemblyInfoInputs.cache
+C:\Users\Qbits\Downloads\online-exam-web-application-project\OnlineExam.Models\obj\Debug\net8.0\OnlineExam.Models.AssemblyInfo.cs
+C:\Users\Qbits\Downloads\online-exam-web-application-project\OnlineExam.Models\obj\Debug\net8.0\OnlineExam.Models.csproj.CoreCompileInputs.cache
+C:\Users\Qbits\Downloads\online-exam-web-application-project\OnlineExam.Models\obj\Debug\net8.0\OnlineExam.Models.dll
+C:\Users\Qbits\Downloads\online-exam-web-application-project\OnlineExam.Models\obj\Debug\net8.0\refint\OnlineExam.Models.dll
+C:\Users\Qbits\Downloads\online-exam-web-application-project\OnlineExam.Models\obj\Debug\net8.0\OnlineExam.Models.pdb
+C:\Users\Qbits\Downloads\online-exam-web-application-project\OnlineExam.Models\obj\Debug\net8.0\ref\OnlineExam.Models.dll
+D:\My Creations\online-exam-web-application-project\OnlineExam.Models\bin\Debug\net8.0\OnlineExam.Models.deps.json
+D:\My Creations\online-exam-web-application-project\OnlineExam.Models\bin\Debug\net8.0\OnlineExam.Models.dll
+D:\My Creations\online-exam-web-application-project\OnlineExam.Models\bin\Debug\net8.0\OnlineExam.Models.pdb
+D:\My Creations\online-exam-web-application-project\OnlineExam.Models\obj\Debug\net8.0\OnlineExam.Models.csproj.AssemblyReference.cache
+D:\My Creations\online-exam-web-application-project\OnlineExam.Models\obj\Debug\net8.0\OnlineExam.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Creations\online-exam-web-application-project\OnlineExam.Models\obj\Debug\net8.0\OnlineExam.Models.AssemblyInfoInputs.cache
+D:\My Creations\online-exam-web-application-project\OnlineExam.Models\obj\Debug\net8.0\OnlineExam.Models.AssemblyInfo.cs
+D:\My Creations\online-exam-web-application-project\OnlineExam.Models\obj\Debug\net8.0\OnlineExam.Models.csproj.CoreCompileInputs.cache
+D:\My Creations\online-exam-web-application-project\OnlineExam.Models\obj\Debug\net8.0\OnlineExam.Models.dll
+D:\My Creations\online-exam-web-application-project\OnlineExam.Models\obj\Debug\net8.0\refint\OnlineExam.Models.dll
+D:\My Creations\online-exam-web-application-project\OnlineExam.Models\obj\Debug\net8.0\OnlineExam.Models.pdb
+D:\My Creations\online-exam-web-application-project\OnlineExam.Models\obj\Debug\net8.0\ref\OnlineExam.Models.dll

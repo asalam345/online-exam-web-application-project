@@ -2,19 +2,15 @@
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
-using Microsoft.EntityFrameworkCore;
 using Newtonsoft.Json;
-using OnlineExam.DataAccess.Data;
 using OnlineExam.DataAccess.Repository.IRepository;
 using OnlineExam.Models;
-using OnlineExam.Models.ViewModels;
 using OnlineExam.Utilities;
 using System;
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
 using System.Security.Claims;
-using System.Threading.Tasks;
 
 namespace OnlineExam.Areas.Teacher.Controllers
 {
@@ -65,9 +61,9 @@ namespace OnlineExam.Areas.Teacher.Controllers
 
             //For preventing loop serialize and derialize the allQuestions data.
             var jsonData = JsonConvert.SerializeObject(AllQuestions, new JsonSerializerSettings
-                                {
-                                    ReferenceLoopHandling = ReferenceLoopHandling.Ignore
-                                });
+            {
+                ReferenceLoopHandling = ReferenceLoopHandling.Ignore
+            });
 
             var dataDeseriazed = JsonConvert.DeserializeObject<IEnumerable<Question>>(jsonData);
 
@@ -167,7 +163,7 @@ namespace OnlineExam.Areas.Teacher.Controllers
                             System.IO.File.Delete(imagePath);
                         }
                     }
-                    using (var fileStreams = new FileStream(Path.Combine(uploads, fileName+extension),FileMode.Create))
+                    using (var fileStreams = new FileStream(Path.Combine(uploads, fileName + extension), FileMode.Create))
                     {
                         files[0].CopyTo(fileStreams);
                     }
@@ -222,7 +218,7 @@ namespace OnlineExam.Areas.Teacher.Controllers
             else
             {
                 return View(question);
-            }            
+            }
         }
 
         [HttpDelete]
